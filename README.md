@@ -1,2 +1,3 @@
-# test_project_db
-test_project_db
+Тестовое задание Овчинников А.
+
+python - 3.8.0, pytest - 7.1.2
